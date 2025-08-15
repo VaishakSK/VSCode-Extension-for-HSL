@@ -74,35 +74,30 @@ Below are the suggested images and captions to visually represent the project:
 1. **Pre-Implementation**
    *Initial setup and project scaffolding created using the Yo Code generator before feature integration.*
 
-   ```markdown
-   ![Pre-Implementation](images/pre_implementation.png)
-   ```
+   <img width="781" height="449" alt="pre_implementation" src="https://github.com/user-attachments/assets/29eed877-efcf-4515-adf4-eefe8ea4d9e1" />
+
 
 2. **Syntax Highlighting**
    *Screenshot of an `.hsl` file in VS Code with clear syntax highlighting for keywords, variables, and operators.*
 
-   ```markdown
-   ![Syntax Highlighting](images/syntax_highlighting.png)
-   ```
+  <img width="780" height="447" alt="syntax_highlighting" src="https://github.com/user-attachments/assets/d25ceea9-0f9b-4020-a01a-9755586c42e8" />
+
 
 3. **Syntax Recommendation**
    *Example showing context-aware syntax recommendations to improve code accuracy and speed.*
 
-   ```markdown
-   ![Syntax Recommendation](images/syntax_recommendation.png)
-   ```
+   <img width="780" height="447" alt="syntax_recommendation" src="https://github.com/user-attachments/assets/08fe6545-6ea9-422e-ad96-1d2a0a4cb902" />
+
 
 4. **Hover Tooltip**
    *Hovering over code elements to display detailed information such as descriptions, parameters, or usage.*
 
-   ```markdown
-   ![Hover Tooltip](images/hover_tooltip.png)
-   ```
+   <img width="790" height="457" alt="hover_tooltip" src="https://github.com/user-attachments/assets/5637dabd-5895-46d9-9603-e9de20e4e9b4" />
+
 
 5. **Syntax Completion**
    *Auto-completion suggestions appearing in real time while typing HSL code.*
 
-   ```markdown
-   ![Syntax Completion](images/syntax_completion.png)
-   ```
+   <img width="779" height="443" alt="syntax_completion" src="https://github.com/user-attachments/assets/fe2d7310-5a77-4975-b6e6-cb725481f92a" />
+
 
